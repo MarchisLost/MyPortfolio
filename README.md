@@ -1,2 +1,2 @@
-# cv
-my cv from udemy course
+# Portfólio
+My portfólio with everything about me, projects and other curiosities.
